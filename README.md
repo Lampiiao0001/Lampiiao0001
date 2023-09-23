@@ -1,4 +1,4 @@
-# Ghosty2004
+# LAMPIIAO001
 Ei! 👋 Sou Lampiao001, um desenvolvedor da linguagem de programação pawno.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1093575204292263946)](https://discord.com/users/1093575204292263946)
